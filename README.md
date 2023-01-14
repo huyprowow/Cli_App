@@ -1,4 +1,4 @@
-# cli app  btl môn hệ quản trị csdl (DBMS) :v lúc báo cáo cô kêu cái này mà là giao diện à xong trừ điểm vỗ tay (ơ :v trường như ....) :v (When she reported this, teacher said this was the interface, then the clapping point was deducted (oh :v school like ....) :v)
+# cli app  btl môn hệ quản trị csdl (DBMS) :v lúc báo cáo cô kêu cái này mà là giao diện à xong trừ điểm vỗ tay (ơ :v trường như ....) :v (When she reported this, teacher said this was the interface, then minus clapping :| (oh :v school like ....) :v)
 ## dev:
 1 run file BTL_HQT_Nhom5.sql in mssql (sql server)
 2. install dependency: ```npm i```
