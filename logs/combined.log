@@ -1,0 +1,364 @@
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:00:52.286Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:15:06.759Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:15:56.583Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:19:14.414Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:19:42.362Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:20:04.129Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:21:44.346Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:21:58.465Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:23:58.768Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:26:02.123Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:26:31.790Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:26:45.437Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:27:14.384Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:27:47.002Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:28:30.280Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:29:16.261Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM `TaiKhoan`","timestamp":"2022-12-19T13:29:17.172Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:30:06.679Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TaiKhoan","timestamp":"2022-12-19T13:30:07.679Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:31:36.937Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TaiKhoan","timestamp":"2022-12-19T13:31:37.766Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:38:36.080Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM ThongBao","timestamp":"2022-12-19T13:38:39.325Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:41:15.057Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:46:03.751Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:47:53.950Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BaiViet","timestamp":"2022-12-19T13:48:01.936Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T13:48:21.298Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-19T13:48:23.361Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T14:30:06.435Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-19T14:30:09.244Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-19T14:30:24.686Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-19T14:30:32.583Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:30:57.997Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:31:04.595Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:31:29.193Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:31:33.068Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:31:57.013Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan NaN","timestamp":"2022-12-20T13:31:58.433Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:32:04.567Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:32:06.954Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:33:27.902Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:33:30.218Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:33:45.903Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 2","timestamp":"2022-12-20T13:33:47.763Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:35:58.461Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:36:00.555Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:37:50.177Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:37:51.746Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:38:04.409Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:38:05.507Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:39:50.018Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:39:51.669Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:40:07.402Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:40:10.595Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:41:35.710Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:41:37.813Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:44:02.414Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:44:04.518Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:44:31.778Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:44:34.517Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:48:06.253Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 2","timestamp":"2022-12-20T13:48:08.280Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:54:07.397Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 2","timestamp":"2022-12-20T13:54:10.107Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:54:21.833Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:54:25.469Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T13:57:41.811Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-20T13:57:44.071Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T14:00:07.547Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 2","timestamp":"2022-12-20T14:00:09.332Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T14:00:51.468Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 2","timestamp":"2022-12-20T14:00:53.107Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T14:01:12.799Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 2","timestamp":"2022-12-20T14:01:15.489Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T14:02:05.201Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 2","timestamp":"2022-12-20T14:02:10.454Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T14:04:24.423Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 2","timestamp":"2022-12-20T14:04:28.161Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-20T14:05:24.469Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 2","timestamp":"2022-12-20T14:05:27.065Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T04:55:24.013Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TaiKhoan","timestamp":"2022-12-22T04:55:33.612Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T04:58:37.788Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BaiViet","timestamp":"2022-12-22T04:58:42.017Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T04:58:50.343Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BinhLuan","timestamp":"2022-12-22T04:58:53.440Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T04:59:02.834Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-22T04:59:04.310Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T04:59:11.360Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM ThongBao","timestamp":"2022-12-22T04:59:15.134Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T05:06:59.287Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TaiKhoan","timestamp":"2022-12-22T05:07:02.334Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T05:19:38.734Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-22T05:20:01.475Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T05:20:13.229Z"}
+{"level":"info","message":"Executing (default): EXEC p_ThemBan 1,3","timestamp":"2022-12-22T05:20:28.147Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T05:21:35.033Z"}
+{"level":"info","message":"Executing (default): EXEC p_ThemBan 1,2","timestamp":"2022-12-22T05:21:41.106Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T05:23:39.298Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 1,3","timestamp":"2022-12-22T05:23:44.169Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T05:24:06.121Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-22T05:24:09.894Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T05:32:49.767Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 1,3","timestamp":"2022-12-22T05:32:55.991Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T05:33:12.385Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-22T05:33:40.243Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T05:33:48.115Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 1,3","timestamp":"2022-12-22T05:33:55.314Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T05:34:40.448Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 4,5","timestamp":"2022-12-22T05:34:45.280Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T13:44:50.284Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TaiKhoan","timestamp":"2022-12-22T13:44:53.628Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T13:45:02.069Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-22T13:45:06.901Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T13:45:21.944Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-22T13:45:28.752Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T13:45:41.668Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-22T13:45:45.194Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-22T13:46:00.619Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BaiViet","timestamp":"2022-12-22T13:46:03.070Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T08:53:42.779Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-23T08:53:45.784Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T08:53:54.555Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2022-12-23T08:53:57.877Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:36:38.938Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:37:32.153Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:38:04.781Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:40:04.979Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:40:59.273Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TaiKhoan","timestamp":"2022-12-23T14:41:04.842Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:42:38.712Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:45:38.279Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:47:32.920Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:49:27.894Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:49:46.750Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-23T14:49:49.674Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:50:39.473Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:51:00.399Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:52:39.329Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:55:44.383Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-23T14:55:47.311Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:57:13.751Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-23T14:57:44.812Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:57:50.533Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-23T14:58:27.880Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:58:32.420Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-23T14:58:52.057Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:59:04.586Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-23T14:59:05.766Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:59:31.559Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T14:59:33.752Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T14:59:48.938Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BinhLuan","timestamp":"2022-12-23T14:59:55.645Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:00:08.733Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM ThongBao","timestamp":"2022-12-23T15:00:10.852Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:00:16.813Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-23T15:00:18.393Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:05:15.360Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T15:05:17.372Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:05:34.126Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T15:05:35.030Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:05:50.812Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T15:05:51.838Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:06:47.193Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T15:06:48.834Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:07:11.973Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T15:07:12.831Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:08:03.983Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T15:08:04.972Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:09:53.065Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T15:09:54.545Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:10:15.322Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T15:10:16.172Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:10:43.645Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T15:10:45.059Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:11:02.446Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-23T15:11:03.724Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:15:21.153Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-23T15:15:23.594Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:15:33.959Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:15:55.588Z"}
+{"level":"info","message":"Executing (default): declare @cur cursor\n      exec p_tinNhanCuaNguoiDung 1,@c=@cur output\n      fetch first from @cur\n      while @@FETCH_STATUS=0\n      fetch next from @cur\n      close @cur\n      deallocate @cur","timestamp":"2022-12-23T15:15:58.852Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:16:49.799Z"}
+{"level":"info","message":"Executing (default): declare @cur cursor\n      exec p_tinNhanCuaNguoiDung 1,@c=@cur output\n      fetch first from @cur\n      while @@FETCH_STATUS=0\n      fetch next from @cur\n      close @cur\n      deallocate @cur","timestamp":"2022-12-23T15:16:52.286Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:17:55.957Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-23T15:19:00.499Z"}
+{"level":"info","message":"Executing (default): declare @cur cursor\n      exec p_tinNhanCuaNguoiDung 1,@c=@cur output\n      fetch first from @cur","timestamp":"2022-12-23T15:19:02.622Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T08:38:50.261Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-24T08:38:54.821Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T08:58:58.968Z"}
+{"level":"info","message":"Executing (default): insert into TaiKhoan(TenTaiKhoan, MatKhau) values($TenTaiKhoan,$MatKhau)","timestamp":"2022-12-24T08:59:26.585Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:01:37.931Z"}
+{"level":"info","message":"Executing (default): insert into TaiKhoan(TenTaiKhoan, MatKhau) values(@TenTaiKhoan,@MatKhau)","timestamp":"2022-12-24T09:01:49.925Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:02:04.751Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-24T09:02:05.777Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:02:12.414Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TaiKhoan","timestamp":"2022-12-24T09:02:13.321Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:19:47.896Z"}
+{"level":"info","message":"Executing (default): insert into NguoiDung(IDTaiKhoan, NgaySinhNhat, GioiTinh, DiaChi, Email, QueQuan, AnhDaiDien, TenNguoiDung) values(@IDTaiKhoan,@NgaySinhNhat,@GioiTinh,@DiaChi,@Email,@QueQuan,@AnhDaiDien,@TenNguoiDung)","timestamp":"2022-12-24T09:22:48.004Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:23:40.595Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2022-12-24T09:23:41.913Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:24:54.978Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:25:10.434Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-24T09:25:12.190Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:25:25.932Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:25:43.298Z"}
+{"level":"info","message":"Executing (default): insert into TaiKhoan(TenTaiKhoan, MatKhau) values(@TenTaiKhoan,@MatKhau)","timestamp":"2022-12-24T09:25:55.254Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:26:25.792Z"}
+{"level":"info","message":"Executing (default): insert into TaiKhoan(TenTaiKhoan, MatKhau) values(@TenTaiKhoan,@MatKhau)","timestamp":"2022-12-24T09:26:35.053Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:27:15.833Z"}
+{"level":"info","message":"Executing (default): insert into TaiKhoan(TenTaiKhoan, MatKhau) values(@TenTaiKhoan,@MatKhau)","timestamp":"2022-12-24T09:27:37.383Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:29:49.562Z"}
+{"level":"info","message":"Executing (default): insert into TaiKhoan(TenTaiKhoan, MatKhau) values(@TenTaiKhoan,@MatKhau)","timestamp":"2022-12-24T09:30:13.562Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:30:47.693Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TaiKhoan","timestamp":"2022-12-24T09:30:48.976Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:37:02.170Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-24T09:37:03.539Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:37:19.177Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 6,7","timestamp":"2022-12-24T09:37:36.653Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:38:24.741Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-24T09:38:26.222Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:39:47.880Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 7,8","timestamp":"2022-12-24T09:39:57.508Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:41:03.592Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 6,7","timestamp":"2022-12-24T09:41:08.699Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:41:23.502Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 6,7","timestamp":"2022-12-24T09:41:27.329Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:54:46.012Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 6,7","timestamp":"2022-12-24T09:54:49.342Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:54:55.718Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:55:04.500Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 8,9","timestamp":"2022-12-24T09:55:13.467Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:56:16.825Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 6,7","timestamp":"2022-12-24T09:56:21.096Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:57:25.595Z"}
+{"level":"info","message":"Executing (default): EXEC p_xoaBan 6,7","timestamp":"2022-12-24T09:57:30.684Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:57:43.385Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-24T09:57:54.372Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:58:39.020Z"}
+{"level":"info","message":"Executing (default): EXEC p_xoaBan 6,7","timestamp":"2022-12-24T09:58:42.712Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T09:58:55.663Z"}
+{"level":"info","message":"Executing (default): EXEC p_xoaBan 8,9","timestamp":"2022-12-24T09:58:59.948Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:02:33.798Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2022-12-24T10:02:34.617Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:02:46.681Z"}
+{"level":"info","message":"Executing (default): EXEC p_themBan 6,7","timestamp":"2022-12-24T10:02:52.464Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:48:33.747Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:48:41.813Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-24T10:48:46.020Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:49:05.035Z"}
+{"level":"info","message":"Executing (default): insert into TinNhan(IDNguoiGui,IDNguoiNhan,CamXuc,NoiDung) values(@IDNguoiGui,@IDNguoiNhan,@CamXuc,@NoiDung)","timestamp":"2022-12-24T10:49:32.062Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:49:45.920Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-24T10:49:47.940Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:50:01.857Z"}
+{"level":"info","message":"Executing (default): insert into TinNhan(IDNguoiGui,IDNguoiNhan,CamXuc,NoiDung) values(@IDNguoiGui,@IDNguoiNhan,@CamXuc,@NoiDung)","timestamp":"2022-12-24T10:50:23.885Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:55:09.524Z"}
+{"level":"info","message":"Executing (default): insert into TinNhan(IDNguoiGui,IDNguoiNhan,CamXuc,NoiDung) values(@IDNguoiGui,@IDNguoiNhan,@CamXuc,@NoiDung)","timestamp":"2022-12-24T10:55:20.149Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:55:26.816Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-24T10:55:29.594Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:57:29.099Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-24T10:57:31.599Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:57:57.814Z"}
+{"level":"info","message":"Executing (default): insert into TinNhan(IDNguoiGui,IDNguoiNhan,CamXuc,NoiDung) values(@IDNguoiGui,@IDNguoiNhan,@CamXuc,@NoiDung)","timestamp":"2022-12-24T10:58:27.237Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T10:58:40.396Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-24T10:58:41.900Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T11:04:21.258Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-24T11:04:24.072Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2022-12-24T11:05:05.282Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2022-12-24T11:05:06.894Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:00:15.466Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:00:54.965Z"}
+{"level":"info","message":"Executing (default): select * from v_BaiViet","timestamp":"2023-01-06T13:00:56.615Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:09:13.417Z"}
+{"level":"info","message":"Executing (default): declare cur cursor dynamic scroll\n    for select * from NguoiDung where IDNguoiDung in \n      (select IDNguoiDung from BinhLuan where IDBaiViet =1)\n    open cur\n    fetch first from cur\n    while @@FETCH_STATUS=0\n    fetch next from cur","timestamp":"2023-01-06T13:09:14.364Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:10:02.957Z"}
+{"level":"info","message":"Executing (default): declare cur cursor dynamic scroll\n    for select * from NguoiDung where IDNguoiDung in \n      (select IDNguoiDung from BinhLuan where IDBaiViet =1)\n    open cur\n    fetch first from cur\n    while @@FETCH_STATUS=0\n    fetch next from cur","timestamp":"2023-01-06T13:10:03.655Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:11:34.537Z"}
+{"level":"info","message":"Executing (default): declare cur cursor dynamic scroll\n    for select * from NguoiDung where IDNguoiDung in \n      (select IDNguoiDung from BinhLuan where IDBaiViet =1)\n    open cur\n    fetch first from cur","timestamp":"2023-01-06T13:11:36.639Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:32:40.267Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:33:18.595Z"}
+{"level":"info","message":"Executing (default): select f_SoBan(2)","timestamp":"2023-01-06T13:33:21.552Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:33:56.839Z"}
+{"level":"info","message":"Executing (default): f_SoBan(1)","timestamp":"2023-01-06T13:33:59.374Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:34:24.334Z"}
+{"level":"info","message":"Executing (default): dbo.f_SoBan(1)","timestamp":"2023-01-06T13:34:27.002Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:34:36.426Z"}
+{"level":"info","message":"Executing (default): print dbo.f_SoBan(1)","timestamp":"2023-01-06T13:34:41.489Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:35:07.615Z"}
+{"level":"info","message":"Executing (default): print dbo.f_SoBan(2)","timestamp":"2023-01-06T13:35:10.744Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:38:02.457Z"}
+{"level":"info","message":"Executing (default): select dbo.f_SoBan(2)","timestamp":"2023-01-06T13:38:05.240Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:38:22.165Z"}
+{"level":"info","message":"Executing (default): select dbo.f_SoBan(1)","timestamp":"2023-01-06T13:38:25.896Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:40:55.151Z"}
+{"level":"info","message":"Executing (default): select dbo.f_SoBan(1)","timestamp":"2023-01-06T13:40:57.290Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:41:57.566Z"}
+{"level":"info","message":"Executing (default): select dbo.f_SoBan(2)","timestamp":"2023-01-06T13:41:59.582Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T13:50:09.378Z"}
+{"level":"info","message":"Executing (default): select dbo.f_SoBaiViet(2)","timestamp":"2023-01-06T13:50:12.092Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T14:37:28.145Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2023-01-06T14:37:31.242Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T14:38:35.184Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2023-01-06T14:38:39.773Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-06T14:49:30.047Z"}
+{"level":"info","message":"Executing (default): begin tran\n    set tran isolation level read committed\n    select * from TaiKhoan\n    commit tran","timestamp":"2023-01-06T14:49:31.504Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-07T13:18:43.264Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-07T13:21:24.403Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-08T01:47:50.163Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2023-01-08T01:47:53.772Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-08T01:49:05.614Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BinhLuan","timestamp":"2023-01-08T01:49:07.671Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-08T01:49:16.683Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-08T01:49:38.987Z"}
+{"level":"info","message":"Executing (default): select dbo.f_SoBan(1)","timestamp":"2023-01-08T01:49:47.067Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-08T01:50:01.339Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2023-01-08T01:50:06.203Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-08T02:49:41.190Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM NguoiDung","timestamp":"2023-01-08T02:49:42.514Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T13:19:34.359Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BinhLuan","timestamp":"2023-01-12T13:19:37.351Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T13:19:50.428Z"}
+{"level":"info","message":"Executing (default): EXEC p_tangLuotThichBaiViet 1,2","timestamp":"2023-01-12T13:20:02.425Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T13:20:16.783Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BaiViet","timestamp":"2023-01-12T13:20:21.695Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T13:28:17.116Z"}
+{"level":"info","message":"Executing (default): select dbo.func_SoLuongTinNhan(1)","timestamp":"2023-01-12T13:28:20.465Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T13:44:59.505Z"}
+{"level":"info","message":"Executing (default): select dbo.func_SoTB(1)","timestamp":"2023-01-12T13:45:02.098Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T13:45:27.271Z"}
+{"level":"info","message":"Executing (default): select dbo.f_soTB(NaN)","timestamp":"2023-01-12T13:45:29.317Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T13:45:34.234Z"}
+{"level":"info","message":"Executing (default): select dbo.f_soTB(1)","timestamp":"2023-01-12T13:45:36.497Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T15:06:02.331Z"}
+{"level":"info","message":"Executing (default): insert into TinNhan(IDNguoiGui,IDNguoiNhan,CamXuc,NoiDung) values(@IDNguoiGui,@IDNguoiNhan,@CamXuc,@NoiDung)","timestamp":"2023-01-12T15:06:46.949Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T15:49:27.591Z"}
+{"level":"info","message":"Executing (default): select * from view_nguoidung","timestamp":"2023-01-12T15:49:30.761Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T15:49:50.855Z"}
+{"level":"info","message":"Executing (default): select * from v_QueQuan","timestamp":"2023-01-12T15:49:53.056Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-12T15:52:16.849Z"}
+{"level":"info","message":"Executing (default): select * from v_QueQuan","timestamp":"2023-01-12T15:52:18.420Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-13T14:10:42.221Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2023-01-13T14:10:44.295Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-13T14:10:51.393Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2023-01-13T14:10:55.936Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-13T14:13:27.802Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM TinNhan","timestamp":"2023-01-13T14:13:30.108Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-13T14:13:49.247Z"}
+{"level":"info","message":"Executing (default): EXEC p_SoBan 1","timestamp":"2023-01-13T14:13:53.803Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-13T14:14:04.320Z"}
+{"level":"info","message":"Executing (default): select dbo.f_SoBan(1)","timestamp":"2023-01-13T14:14:07.528Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-13T14:14:38.281Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-13T14:14:46.847Z"}
+{"level":"info","message":"Executing (default): begin tran\n    set tran isolation level read committed\n    select * from TaiKhoan\n    commit tran","timestamp":"2023-01-13T14:14:48.945Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-13T14:15:09.694Z"}
+{"level":"info","message":"Executing (default): select * from v_QueQuan","timestamp":"2023-01-13T14:15:11.126Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-14T01:39:09.007Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2023-01-14T01:39:10.355Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-14T01:51:44.912Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BanBe","timestamp":"2023-01-14T01:51:46.253Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-14T01:52:19.945Z"}
+{"level":"info","message":"Executing (default): insert into TinNhan(IDNguoiGui,IDNguoiNhan,CamXuc,NoiDung) values(@IDNguoiGui,@IDNguoiNhan,@CamXuc,@NoiDung)","timestamp":"2023-01-14T01:52:36.122Z"}
+{"level":"info","message":"Executing (default): SELECT 1+1 AS result","timestamp":"2023-01-14T01:52:41.238Z"}
+{"level":"info","message":"Executing (default): SELECT * FROM BaiViet","timestamp":"2023-01-14T01:52:42.684Z"}
